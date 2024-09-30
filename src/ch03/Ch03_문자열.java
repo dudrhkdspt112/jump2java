@@ -52,6 +52,6 @@ public class Ch03_문자열 {
         //숫자입력
         System.out.println(String.format("나는 사과를 %d개 먹었다!", 10));
         // 두개이상 입력
-        System.out.println(String.format("나는 사과를 %d개 먹고 아파서 %s일 약을 먹었다.", 5, "삼"));
+        System.out.println(String.format("나는 사과를 %d개 먹고 아파서 %s일 약을 먹었다.", 5, "사"));
     }
 }
