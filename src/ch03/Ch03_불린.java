@@ -20,5 +20,11 @@ public class Ch03_불린 {
             System.out.println("키가 큽니다");
         }
 
+        int key = 150;
+        int x = 155;
+        boolean isWhat = x > base;
+        if(key < x) {
+            System.out.println("키가 큽니다");
+        }
     }
 }
